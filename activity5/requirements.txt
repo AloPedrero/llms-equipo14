@@ -1,0 +1,40 @@
+# Core data stack
+numpy==2.2.6
+pandas==2.3.2
+scipy==1.15.3
+scikit-learn==1.7.0
+
+# NLP / text
+nltk==3.9.1
+gensim==4.4.0
+smart-open==7.1.0
+Unidecode==1.4.0
+wordcloud==1.9.4
+
+# Imaging
+pillow==11.3.0
+
+# Utilities
+joblib==1.5.2
+threadpoolctl==3.6.0
+ipython==9.4.0
+
+# Audio
+pydub==0.25.1
+SpeechRecognition==3.14.3
+
+# LLM
+ollama==0.5.1
+
+# PDFs
+pypdf==5.8.0
+pdfminer.six==20250506
+
+# RAG / document parsing
+unstructured[pdf]==0.18.13
+unstructured-inference==1.0.5
+
+# OCR helpers
+pi-heif==0.22.0
+pytesseract==0.3.13
+pdf2image==1.17.0
